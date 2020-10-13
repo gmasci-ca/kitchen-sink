@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'kitchen-sink';
+  title = 'kitchen-sink2';
+  prop = 3
 }
