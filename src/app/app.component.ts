@@ -6,6 +6,8 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
+  prop = 3;
+  changes = 5;
   title = 'kitchen-sink-2';
   foo = 'bar';
 }
