@@ -7,5 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'kitchen-sink2';
-  prop = 3
+  prop = 3;
+  changes = 5;
 }
