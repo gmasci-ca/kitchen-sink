@@ -10,4 +10,5 @@ export class AppComponent {
   changes = 5;
   title = 'kitchen-sink-2';
   foo = 'bar';
+  bar = 'foo';
 }
